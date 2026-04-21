@@ -1,0 +1,13 @@
+# Project
+
+> Base architecture scaffold. Project-specific content will be added in
+> subsequent sessions.
+
+## Status
+Base architecture only. Content to follow.
+
+## Contact
+# TODO: add owner name and contact details
+
+## Topics
+# TODO: add subject areas once content is defined
